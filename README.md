@@ -45,13 +45,13 @@ In this course we talked about:
     - Autoencoder
 
 8. Language Models
-  - RNN-based Language Model
-  - Natural Language Processing (NLP)
-  - Word Embedding - Cosine Similarity
-  - Neural Language Model
-  - Word2Vec - skip grams model
-  - Negative Sampling, GloVe Word Vectors
-  - Debiasing Word Embeddings
+    - RNN-based Language Model
+    - Natural Language Processing (NLP)
+    - Word Embedding - Cosine Similarity
+    - Neural Language Model
+    - Word2Vec - skip grams model
+    - Negative Sampling, GloVe Word Vectors
+    - Debiasing Word Embeddings
 
 9. Attention Mechanism & Transformers
     - Language model - greedy search, Beam Search
