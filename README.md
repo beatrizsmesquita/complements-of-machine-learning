@@ -73,4 +73,4 @@ In this course we talked about:
 
 FINAL GRADE: First Project: 18.1; Second Project: (**TO BE DELIVERED**); Exam: (**TO BE DELIVERED**). FINAL MARK: (**TO BE DELIVERED**)
 
-(The theme for the second project is already defineD: Image Classification on the Fashion MNIST Dataset: https://www.kaggle.com/datasets/zalando-research/fashionmnist. - ON PROGESS)
+(The theme for the second project is already defined: Image Classification on the Fashion MNIST Dataset: https://www.kaggle.com/datasets/zalando-research/fashionmnist. - ON PROGESS)
