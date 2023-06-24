@@ -71,6 +71,6 @@ In this course we talked about:
 - Theoretical Component – 50% of the final grade (Final exam).
 
 
-FINAL GRADE: First Project: 18.1; Second Project: (**TO BE DELIVERED**); Exam: (**TO BE DELIVERED**). FINAL MARK: (**TO BE DELIVERED**)
+FINAL GRADE: First Project: 18.1; Second Project: 20; Exam: 13.9. FINAL MARK: 17
 
-(The theme for the second project is already defined: Image Classification on the Fashion MNIST Dataset: https://www.kaggle.com/datasets/zalando-research/fashionmnist. - ON PROGESS)
+Second Project: The theme for the second project is Image Classification on the Fashion MNIST Dataset: https://drive.google.com/drive/folders/1MUuvB4Y0Ro763i0h6TDGQy-uDZf4zMFY?usp=sharing 
